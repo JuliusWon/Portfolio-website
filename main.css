@@ -26,7 +26,13 @@
   z-index: 1;
   border-radius: 10px;
 }
-
+body {
+	background-image: url('background.png');
+	background-color: #222233;
+	background-repeat: repeat;
+	background-size: normal;
+	text-align: center;
+}
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;
@@ -43,14 +49,8 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e4e81;}
-body {
-	/* background-image: url('Background.png'); */
-	background-color: #222233;
-	background-repeat: repeat;
-	background-size: normal;
-	text-align: center;
-}
-.button {:w
+
+.button {
 
 	border-width: 3px;
 	border-radius: 40px;
