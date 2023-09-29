@@ -76,4 +76,10 @@ body {
 	font-size: large;
 	/* font-weight: 10000; */
 	color:#66C4D9;
+	margin:auto;
+   text-align:center;
+	justify-content: center;
+   word-wrap: break-word;
+   width: 75%;
+   
 }
