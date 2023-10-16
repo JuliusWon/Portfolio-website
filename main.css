@@ -39,6 +39,7 @@
   border-radius: 10px;
 }
 body {
+
 	background-image: url('background.png');
 	background-color: #222233;
 	background-repeat: repeat;
@@ -69,8 +70,9 @@ body {
 	border-width: 5px;
 }
 .Heading {
-	font-size: 300%;
-	font-family: iosevka;
+
+	font-size: 400%;
+	/* font-family: iosevka; */
 	color: #A2A6F2;
 }
 .TextNorm{
