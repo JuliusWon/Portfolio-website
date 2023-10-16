@@ -39,7 +39,7 @@
   border-radius: 10px;
 }
 body {
-
+	font-family:"Times New Roman";
 	background-image: url('background.png');
 	background-color: #222233;
 	background-repeat: repeat;
