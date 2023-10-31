@@ -43,9 +43,10 @@
 body {
 	font-family:"Iosevka";
 	background-image: url('background.png');
+	/* background-image: url('tpose.jpg'); */
 	background-color: #222233;
 	background-repeat: repeat;
-	background-size: normal;
+	background-size: small;
 	text-align: center;
 
 }
