@@ -74,13 +74,38 @@ body {
 	font-size: 400%;
 	color: #A2A6F2;
 }
+.brainText{
+  font-size:large;
+  color: #F2A6F4;
+}
+.brainHeading{
+  	font-size: 400%;
+    color: #a15921;
+}
 .TextNorm{
 	font-size: large;
-	color:#66C4D9;
+	color:#CCCCCCFF;
 	margin:auto;
    text-align:center;
 	justify-content: center;
    word-wrap: break-word;
    width: 75%;
    
+}
+ .row {
+  display: flex;
+  flex-wrap:nowrap;
+  flex: 50%;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
 }
