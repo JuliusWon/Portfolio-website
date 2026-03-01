@@ -72,15 +72,33 @@ body {
 }
 .Heading {
 	font-size: 400%;
-	color: #A2A6F2;
+	color: #F7489D;
 }
 .brainText{
   font-size:large;
-  color: #F2A6F4;
+  color: #F39AF7;
+}
+.brainTextL{
+  font-size:large;
+  color: #F39AF7;
+}
+.brainTextL:link{
+  color:#EF48F7;
+  text-decoration: none;
+}
+.brainTextL:visited{
+  color:#F39AF7;
+}
+.brainTextL:hover{
+  color:#F7489D;
 }
 .brainHeading{
   	font-size: 400%;
-    color: #a15921;
+    color: #FA625E;
+}
+.brainHeading2{
+    font-size:large;
+
 }
 .TextNorm{
 	font-size: large;
@@ -102,10 +120,11 @@ body {
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
-  padding: 0 4px;
+  padding: 0 40px;
 }
 
 .column img {
   margin-top: 8px;
   vertical-align: middle;
+  padding: 0 40px;
 }
